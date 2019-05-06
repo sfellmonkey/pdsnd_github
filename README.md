@@ -5,7 +5,7 @@
 Explore US Bikeshare Data
 
 ### Description
-User can decide between data from different cities (Washington, New York City, Chicago), different month (January to June) and weekdays to explore US bike share data and to answer interesting questions about it.
+User can decide between data from different cities (Washington, New York City, Chicago), different month (January to June) and weekdays to explore US bike share data and to answer interesting questions about it. The python script takes in raw input to create an interactive experience in the terminal to present these data.
 
 ### Files used
 - chicago.csv
