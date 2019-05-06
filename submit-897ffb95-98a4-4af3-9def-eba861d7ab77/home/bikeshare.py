@@ -193,6 +193,7 @@ def main():
                         more_data = input('Would you like to see more data? Please enter yes or no: ').lower()
                         if more_data not in ('yes', 'y'):
                             break
+                break
 
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
